@@ -1,1 +1,1 @@
-This file contains solutions to the introduction to C project
+This file contains solutions to C variables project
